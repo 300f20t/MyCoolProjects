@@ -1,1 +1,3 @@
 # MyCoolProjects
+
+Very cool projects ╰(*°▽°*)╯
